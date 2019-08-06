@@ -1,0 +1,22 @@
+body {
+  background-image: url("borobudur.jpg");
+  background-size: cover;
+}
+div {
+  width: 700px;
+  height: 450px;
+  background-image: url("avocado.jpg");
+  background-repeat:repeat;
+  background-position: 0 100%;
+  background-position: top left;
+  border: 2px solid red;
+  margin: 0 auto;
+}
+p {
+  text-align: justify;
+  color: blue;
+}
+.repeat {
+  background-repeat: repeat-x;
+  background-position: top left;
+}
